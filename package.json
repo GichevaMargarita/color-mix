@@ -2,7 +2,10 @@
   "name": "color-mix",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://gichevamargarita.github.io/color-mix/public",
   "dependencies": {
+    "color": "^3.1.0",
+    "rc-color-picker": "^1.2.6",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
     "react-scripts": "2.1.1"
@@ -11,7 +14,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -23,6 +28,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
+    "gh-pages": "^2.0.1",
     "node-sass": "^4.10.0",
     "sass-loader": "^7.1.0"
   }
