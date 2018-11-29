@@ -1,15 +1,15 @@
 {
-  "main.css": "/color-mix/index/static/css/main.911c1ecb.chunk.css",
-  "main.js": "/color-mix/index/static/js/main.7f7125dd.chunk.js",
-  "main.js.map": "/color-mix/index/static/js/main.7f7125dd.chunk.js.map",
-  "static/css/1.0904e8f0.chunk.css": "/color-mix/index/static/css/1.0904e8f0.chunk.css",
-  "static/js/1.268f97b8.chunk.js": "/color-mix/index/static/js/1.268f97b8.chunk.js",
-  "static/js/1.268f97b8.chunk.js.map": "/color-mix/index/static/js/1.268f97b8.chunk.js.map",
-  "runtime~main.js": "/color-mix/index/static/js/runtime~main.5ce7ce4e.js",
-  "runtime~main.js.map": "/color-mix/index/static/js/runtime~main.5ce7ce4e.js.map",
-  "static/css/main.911c1ecb.chunk.css.map": "/color-mix/index/static/css/main.911c1ecb.chunk.css.map",
-  "static/css/1.0904e8f0.chunk.css.map": "/color-mix/index/static/css/1.0904e8f0.chunk.css.map",
-  "index.html": "/color-mix/index/index.html",
-  "precache-manifest.f35857b790c7b1f4c6c197637256355e.js": "/color-mix/index/precache-manifest.f35857b790c7b1f4c6c197637256355e.js",
-  "service-worker.js": "/color-mix/index/service-worker.js"
+  "main.css": "/color-mix/public/static/css/main.911c1ecb.chunk.css",
+  "main.js": "/color-mix/public/static/js/main.ebf83323.chunk.js",
+  "main.js.map": "/color-mix/public/static/js/main.ebf83323.chunk.js.map",
+  "static/css/1.0904e8f0.chunk.css": "/color-mix/public/static/css/1.0904e8f0.chunk.css",
+  "static/js/1.268f97b8.chunk.js": "/color-mix/public/static/js/1.268f97b8.chunk.js",
+  "static/js/1.268f97b8.chunk.js.map": "/color-mix/public/static/js/1.268f97b8.chunk.js.map",
+  "runtime~main.js": "/color-mix/public/static/js/runtime~main.918d4eb0.js",
+  "runtime~main.js.map": "/color-mix/public/static/js/runtime~main.918d4eb0.js.map",
+  "static/css/1.0904e8f0.chunk.css.map": "/color-mix/public/static/css/1.0904e8f0.chunk.css.map",
+  "static/css/main.911c1ecb.chunk.css.map": "/color-mix/public/static/css/main.911c1ecb.chunk.css.map",
+  "index.html": "/color-mix/public/index.html",
+  "precache-manifest.0782e0e7376563952f6ea7ffc6f24048.js": "/color-mix/public/precache-manifest.0782e0e7376563952f6ea7ffc6f24048.js",
+  "service-worker.js": "/color-mix/public/service-worker.js"
 }
