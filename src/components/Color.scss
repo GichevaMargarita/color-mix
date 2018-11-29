@@ -1,6 +1,18 @@
-.rc-color-picker-trigger{
+.color {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+}
+
+.rc-color-picker-trigger {
   width: 150px !important;
   height: 150px !important;
   border-radius: 50% !important;
   border: 1px solid lightgray !important;
+}
+
+.code {
+  font-size: 24px;
+  color: white;
+  margin-top: 10px;
 }

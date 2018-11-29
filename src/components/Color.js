@@ -3,20 +3,32 @@ import './Color.scss'
 import ColorPicker from 'rc-color-picker';
 import 'rc-color-picker/assets/index.css';
 
-class ColorWall extends React.Component {
+class Color extends React.Component {
+    constructor(props){
+        super(props);
+        this.state ={
+            color: {
+                alpha: 100,
+                color: "#fff"
+            }
+        }
+    }
+
     handleChange(color) {
+        this.setState({color: color});
         this.props.handleColorChange(color);
     }
 
     render() {
         return (
-            <div>
+            <div className='color'>
                 <ColorPicker
-                    defaultColor='#fff'
+                    defaultColor={this.state.color.color}
                     onChange={this.handleChange.bind(this)}/>
+                <div className='code'>{this.state.color.color}</div>
             </div>
         );
     }
 }
 
-export default ColorWall;
+export default Color;

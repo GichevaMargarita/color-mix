@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import ColorWall from './components/Color';
+import Color from './components/Color';
 import Header from './components/Header';
 import color from 'color';
 
@@ -27,11 +27,11 @@ class App extends Component {
         let newColor = firstColor.mix(secondColor);
         return (
             <div>
-                <Header/>
+                <Header color={newColor}/>
                 <div style={{backgroundImage: 'linear-gradient(to right,' + firstColor + ',' + secondColor + ')'}}
                      className='background'>
-                    <ColorWall handleColorChange={this.onFirstColorChange}/>
-                    <ColorWall handleColorChange={this.onSecondColorChange}/>
+                    <Color handleColorChange={this.onFirstColorChange}/>
+                    <Color handleColorChange={this.onSecondColorChange}/>
                 </div>
             </div>
         );
