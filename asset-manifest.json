@@ -1,15 +1,15 @@
 {
-  "main.css": "/color-mix/static/css/main.911c1ecb.chunk.css",
-  "main.js": "/color-mix/static/js/main.3138c2c7.chunk.js",
-  "main.js.map": "/color-mix/static/js/main.3138c2c7.chunk.js.map",
-  "static/css/1.0904e8f0.chunk.css": "/color-mix/static/css/1.0904e8f0.chunk.css",
-  "static/js/1.268f97b8.chunk.js": "/color-mix/static/js/1.268f97b8.chunk.js",
-  "static/js/1.268f97b8.chunk.js.map": "/color-mix/static/js/1.268f97b8.chunk.js.map",
-  "runtime~main.js": "/color-mix/static/js/runtime~main.552906c5.js",
-  "runtime~main.js.map": "/color-mix/static/js/runtime~main.552906c5.js.map",
-  "static/css/1.0904e8f0.chunk.css.map": "/color-mix/static/css/1.0904e8f0.chunk.css.map",
-  "static/css/main.911c1ecb.chunk.css.map": "/color-mix/static/css/main.911c1ecb.chunk.css.map",
-  "index.html": "/color-mix/index.html",
-  "precache-manifest.848f958f1a8be688541e67680cdcc8bc.js": "/color-mix/precache-manifest.848f958f1a8be688541e67680cdcc8bc.js",
-  "service-worker.js": "/color-mix/service-worker.js"
+  "main.css": "/color-mix/index/static/css/main.911c1ecb.chunk.css",
+  "main.js": "/color-mix/index/static/js/main.7f7125dd.chunk.js",
+  "main.js.map": "/color-mix/index/static/js/main.7f7125dd.chunk.js.map",
+  "static/css/1.0904e8f0.chunk.css": "/color-mix/index/static/css/1.0904e8f0.chunk.css",
+  "static/js/1.268f97b8.chunk.js": "/color-mix/index/static/js/1.268f97b8.chunk.js",
+  "static/js/1.268f97b8.chunk.js.map": "/color-mix/index/static/js/1.268f97b8.chunk.js.map",
+  "runtime~main.js": "/color-mix/index/static/js/runtime~main.5ce7ce4e.js",
+  "runtime~main.js.map": "/color-mix/index/static/js/runtime~main.5ce7ce4e.js.map",
+  "static/css/main.911c1ecb.chunk.css.map": "/color-mix/index/static/css/main.911c1ecb.chunk.css.map",
+  "static/css/1.0904e8f0.chunk.css.map": "/color-mix/index/static/css/1.0904e8f0.chunk.css.map",
+  "index.html": "/color-mix/index/index.html",
+  "precache-manifest.f35857b790c7b1f4c6c197637256355e.js": "/color-mix/index/precache-manifest.f35857b790c7b1f4c6c197637256355e.js",
+  "service-worker.js": "/color-mix/index/service-worker.js"
 }
