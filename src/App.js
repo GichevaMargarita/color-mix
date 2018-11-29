@@ -28,7 +28,8 @@ class App extends Component {
         return (
             <div>
                 <Header/>
-                <div style={{background: newColor}} className='background'>
+                <div style={{backgroundImage: 'linear-gradient(to right,' + firstColor + ',' + secondColor + ')'}}
+                     className='background'>
                     <ColorWall handleColorChange={this.onFirstColorChange}/>
                     <ColorWall handleColorChange={this.onSecondColorChange}/>
                 </div>
