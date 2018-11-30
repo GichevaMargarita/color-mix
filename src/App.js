@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import Color from './components/Color';
 import Header from './components/Header';
+import ColorWall from "./components/ColorWall";
 import color from 'color';
 
 class App extends Component {
@@ -31,6 +32,7 @@ class App extends Component {
                 <div style={{backgroundImage: 'linear-gradient(to right,' + firstColor + ',' + secondColor + ')'}}
                      className='background'>
                     <Color handleColorChange={this.onFirstColorChange}/>
+                    <ColorWall color={newColor}/>
                     <Color handleColorChange={this.onSecondColorChange}/>
                 </div>
             </div>
